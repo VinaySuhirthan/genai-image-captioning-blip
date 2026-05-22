@@ -92,7 +92,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ```
 ### OUTPUT:
 
-![Uploading image.png…]()
+<img width="1580" height="978" alt="image" src="https://github.com/user-attachments/assets/90b31ce0-129e-4882-a824-d01c7e7538f0" />
+
 
 
 ### RESULT:
